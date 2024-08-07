@@ -1,0 +1,24 @@
+// installation restrictions
+@50 = ~This mod is only available for BGEE and BG2EE for the moment~
+
+
+// components
+@100 = ~Install starting gear component~
+@200 = ~Allow starting gear to be upgraded by various NPCs such as Cromwell and Cespenar~
+
+
+
+// shadowdancer gear
+@1000 = ~Shadow Leathers~
+@1001= ~This dark studded leather armor has been created specifically for you. It was crafted to complement your abilities as a Shadowdancer, and may not be worn by anyone else.
+
+STATISTICS:
+
+Equipped abilities:
+– Hide in Shadows and Move Silently: +5%
+
+Armor Class: 6 (4 vs. slashing, 5 vs. piercing and missile)
+Requires:
+ 6 Strength
+
+Weight: 15~
